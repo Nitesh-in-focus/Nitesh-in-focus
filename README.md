@@ -1,7 +1,7 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <h1 align="center">Hi 👋, I'm Nitesh Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-in-focus&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-in-focus" /> </p>
 
