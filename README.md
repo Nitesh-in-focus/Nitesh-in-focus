@@ -154,7 +154,9 @@ Open to collaboration, feedback, or a good tech chat!
 
 ### ⌛ Weekly Coding Stats
 
-[![Nitesh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niteshinfocus&theme=tokyonight&hide_border=true)](https://github.com/nitesh-in-focus/github-readme-stats)
+<img src="https://wakatime.com/share/@niteshinfocus/f737c604-ac3b-40a5-ac25-1c0d7cb9f997.svg" width="347px" align="center"></img>
+<img src="https://wakatime.com/share/@niteshinfocus/47b58851-bae0-4778-af09-31fb479c0ea0.svg" width="347px" align="center"></img><br>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=niteshinfocus&theme=tokyonight&hide_border=true" width="700px" align="center"></img></p>
 
 ---
 
