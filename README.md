@@ -63,20 +63,7 @@ Hey! I’m **Nitesh Jha**, a CSBS undergrad, frontend-focused full-stack develop
 
 ---
 
-### 📫 Connect with Me
 
-Open to collaboration, feedback, or a good tech chat!
-
-<p align="left">
-  <a href="https://linkedin.com/in/nitesh jha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/niteshinfocus" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
 
 
 ### <h2 align="center">🛠️ Languages & Tools I Use</h2>
