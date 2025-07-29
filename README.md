@@ -133,7 +133,7 @@ Hey! I’m **Nitesh Jha**, a CSBS undergrad, frontend-focused full-stack develop
   <img src="https://i0.wp.com/media0.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="500px" align = "center" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitesh-in-focus&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" align = "center" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Nitesh-in-focus?cardType=octocat&theme=dark&preferLogin=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nitesh-in-focus&theme=tokyonight" alt="GitHub Streak" align = "center" />
 </p>
   
